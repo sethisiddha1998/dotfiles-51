@@ -5,6 +5,17 @@
     </blockquote>
 </div>
 
+## Details
+
+**Window manager:** [i3-gaps](https://github.com/Airblader/i3)  
+**Bar:** [Polybar](https://github.com/polybar/polybar)  
+**App launcher:** [Rofi](https://github.com/davatorium/rofi)  
+**Shell:** [ZSH](https://github.com/zsh-users/zsh)  
+**Terminal emulator:** [Alacritty](https://github.com/jwilm/alacritty)  
+**Notifications:** [Dunst](https://github.com/dunst-project/dunst)  
+**Code editor:** [Visual Studio Code](https://github.com/microsoft/vscode)  
+[**Wallpaper**](https://images.unsplash.com/photo-1511108988782-9a5c10cbc062)
+
 ## Screenshots
 
 ![neofetch, dunst and rofi](./screenshots/screenshot1.png)
